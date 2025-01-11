@@ -33,4 +33,4 @@ The analysis revealed key insights into the distribution and quality of mobile s
 **Recommendation:**  
 Prioritize partnership outreach to mobile shops in high-density areas with favorable market characteristics. Focus on shops with high Google ratings and positive customer feedback. Develop a tiered partnership strategy based on shop size, location, and potential for collaboration.  
 
-### Project Link:https://lookerstudio.google.com/reporting/e289862b-07b7-4450-ad00-447f5ebcbd57/page/ciH3D
+**Project Link:https://lookerstudio.google.com/reporting/e289862b-07b7-4450-ad00-447f5ebcbd57/page/ciH3D**
